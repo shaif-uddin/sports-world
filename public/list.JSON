@@ -1,0 +1,56 @@
+[
+    {
+        "key": "1",
+        "category": "Venue",
+        "name": "Cox's bazar Beach",
+        "location": "Cox'bazar",
+        "organizer": "Onno Tours & Travel",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/66/d8/30/cox-s-bazar-beach.jpg?w=600&h=-1&s=1",
+        "price": 10000
+    },
+    {
+        "key": "2",
+        "category": "Venue",
+        "name": "Chittagong Foyes Lake",
+        "location": "Chittagong",
+        "organizer": "Chittagong Tours & Travel",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3c/50/1b/foy-s-lake.jpg",
+        "price": 8000
+    },
+    {
+        "key": "3",
+        "category": "Transport",
+        "name": "Star Line AC Bus",
+        "location": "Dhaka To Cox'bazar",
+        "organizer": "Star Line Limited",
+        "img": "https://img.youtube.com/vi/JY4LtI56988/maxresdefault.jpg",
+        "price": 2000
+    },
+    {
+        "key": "4",
+        "category": "Transport",
+        "name": "Green Line",
+        "location": "Dhaka to Chittagong",
+        "organizer": "Green Line Limited",
+        "img": "https://greenlinebd.com/wp-content/uploads/2020/08/home-slider2.jpg",
+        "price": 3000
+    },
+    {
+        "key": "5",
+        "category": "Cattering",
+        "name": "Dabba Restuarent",
+        "location": "Chittagong",
+        "organizer": "Chittagong Tours & Travel",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3c/50/1b/foy-s-lake.jpg",
+        "price": 500
+    },
+    {
+        "key": "6",
+        "category": "Cattering",
+        "name": "Sea Food Restuarent",
+        "location": "Cox'bazar",
+        "organizer": "RED ELEGANCE EVENTS",
+        "img": "https://lh3.googleusercontent.com/-59lZdoLPScs/Wi_c4VmST0I/AAAAAAAAM-E/G_oxZ5blJqoHdM11RkoJjSopGFpEAutcwCLIBGAYYCw/w768-h768-n-o-k-v1/",
+        "price": 500
+    }
+]
